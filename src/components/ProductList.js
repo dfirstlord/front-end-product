@@ -15,9 +15,9 @@ const ProductList = () => {
     }
 
     return (
-        <div className='column mt-5 is-centered'>
-            <div className='column is-half'>
-                <table className='table is-striped is-fullwidth'>
+        <div>
+            <div>
+                <table>
                     <thead>
                     <tr>
                         <th>Fund Code</th>
